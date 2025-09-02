@@ -9,10 +9,10 @@
 - Verificação condicional para saber se o nome **"Carla"** está presente na lista.
 
 ## 💡 Exemplo de saída gerada:
-Primeiro nome da lista: João
-Terceiro nome da lista: Beatriz
-Último nome da lista: Lucas
-Carla não foi encontrada na lista.
+- Primeiro nome da lista: João
+- Terceiro nome da lista: Beatriz
+- Último nome da lista: Lucas
+- Carla não foi encontrada na lista.
 
 ## ▶️ Como executar o programa:
 1. Abra o terminal no VSCode.
